@@ -49,6 +49,7 @@ DeepScaleR is an open-source project to fully democratize reinforcement learning
 cd deepscaler
 pip install -e ./verl
 pip install -e .
+pip install wandb
 ```
 
 ### Data
